@@ -1,15 +1,4 @@
-#include <iostream>
-#include <string>
-#include <unordered_map>
-#include <vector>
-#include <set>
-#include <queue>
-#include <algorithm>
-#include <stdexcept>
-#include <functional>
-#include <thread>
-#include <chrono>
-
+#include<bits/stdc++.h>
 using namespace std;
 
 class Request {
